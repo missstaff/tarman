@@ -54,7 +54,7 @@ function App() {
             </p>
             <button
               style={styles.ctaButton}
-              onClick={() => (window.location.href = "tel:+1234567890")}
+              onClick={() => (window.location.href = "tel:+5038638041")}
             >
               Call Us Now! 📞
             </button>
